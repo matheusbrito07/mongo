@@ -1,0 +1,44 @@
+h1{
+    color: white;
+}
+
+img{
+    width: 75px;
+    height: 75px;
+    border-radius: 15%;
+}
+
+.main-header{
+    background-color: rgb(43, 42, 42);
+    margin: none;
+    padding: none;
+    height: 80px;
+    width: 100%;
+    border-radius: 15px;
+    display: inline-block;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.menu-container{
+    display: inline-block;
+    justify-content: center;
+}
+
+.menu-logo{
+    float: left;
+}
+
+.menu-link{
+    display: inline-block;
+    justify-content: center;
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-size: 50px;
+}
+
+.menu-link:hover{
+    color: rgba(255, 255, 255, 0.247);
+}

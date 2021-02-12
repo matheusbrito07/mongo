@@ -1,0 +1,12 @@
+.contatos-main{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    padding: 50px;
+    
+}
+
+.list-group-item{
+    color: black;
+}

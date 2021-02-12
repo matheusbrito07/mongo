@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6026c9da10ceae1bfc7c9b94"
+  },
+  "item": "PC GAMER",
+  "tipo": "eletronico"
+},{
+  "_id": {
+    "$oid": "6026c9f610ceae1bfc7c9b95"
+  },
+  "item": "Iphone",
+  "tipo": "eletronico"
+},{
+  "_id": {
+    "$oid": "6026ca1110ceae1bfc7c9b96"
+  },
+  "item": "pessoa",
+  "tipo": "humano"
+},{
+  "_id": {
+    "$oid": "6026db35cc2dd32d2073f3f1"
+  },
+  "item": "Discord",
+  "tipo": "Software"
+}]
